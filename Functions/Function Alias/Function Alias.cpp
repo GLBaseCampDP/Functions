@@ -8,6 +8,7 @@
 // Визначення аліаса
 using F = int(*) (int, int);
 
+
 // Визначення функцій
 int add(int i, int j) { return i + j; }
 int mult(int i, int j) { return i * j; }

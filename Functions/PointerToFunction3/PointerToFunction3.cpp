@@ -8,6 +8,7 @@
 // специфікатори є обов'язкові
 typedef void __declspec(dllexport) (*T)(void); // тип вказівник
 typedef void  TF(void); // тип функція
+
 T p;
 
 TF* p2;
